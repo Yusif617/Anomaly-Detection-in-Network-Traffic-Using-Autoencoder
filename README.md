@@ -77,4 +77,4 @@ Anomalies in network traffic may indicate cyber attacks or unusual behaviors. Ma
 ## Author
 
 **Yusif Mammadov**  
-📬 [LinkedIn](https://www.linkedin.com/in/yusif-mammadov/) • [GitHub](https://github.com/Yusif617)
+📬 [LinkedIn](https://www.linkedin.com/in/yusif-m%C9%99mm%C9%99dov40/) • [GitHub](https://github.com/Yusif617)
